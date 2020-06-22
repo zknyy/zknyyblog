@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.zknyy.blog",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "6.9.1",
+    "applicationType": "monolith",
+    "baseName": "zknyyblog",
+    "packageName": "com.zknyy.blog",
+    "packageFolder": "com/zknyy/blog",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mariadb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Yjc1MDQ4NmJlNzE0NWYwOTE1MWFjZjEwNjVhNzZhODM4ZGJiZWU4ODM3ZWUwMTJiMmVhZWNmMTAwNThlYjA2MGU5YmJmZTExOWNkZmJiOTg1MTJmY2VhMDA2ZmRjYTJmYWE4NGQzNDI2YWZlMmQyZmM2MThhZGI4YmZlYmVhNjg=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1592851233678,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "zh-cn",
+    "languages": ["zh-cn", "en"],
+    "blueprints": []
+  }
+}
